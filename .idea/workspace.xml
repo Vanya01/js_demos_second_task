@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0db04bde-2ebc-477e-88b6-a7d6b5e1108c" name="Default Changelist" comment="done">
-      <change afterPath="$PROJECT_DIR$/newWay/lesson2/task/Нова папка/My_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newWay/lesson2/task/Нова папка/My_3.js" afterDir="false" />
+    <list default="true" id="0db04bde-2ebc-477e-88b6-a7d6b5e1108c" name="Default Changelist" comment="done_3">
+      <change afterPath="$PROJECT_DIR$/newWay/lesson2/task/Нова папка/My_4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newWay/lesson2/task/My_code.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newWay/lesson2/task/My_code2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newWay/lesson2/task/My_styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newWay/lesson2/task/my_code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newWay/lesson2/task/Нова папка/My_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/newWay/lesson2/task/Нова папка/My_3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +58,8 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="debugger.dataViews" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -95,7 +92,8 @@
       <workItem from="1626257164554" duration="7177000" />
       <workItem from="1626264409624" duration="3000" />
       <workItem from="1626353610110" duration="3104000" />
-      <workItem from="1626368739436" duration="9790000" />
+      <workItem from="1626368739436" duration="10038000" />
+      <workItem from="1626430301410" duration="14234000" />
     </task>
     <task id="LOCAL-00001" summary="async tasks">
       <created>1614808180001</created>
@@ -188,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626264143951</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="done_3">
+      <created>1626380151811</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1626380151811</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +220,8 @@
     <MESSAGE value="done newWay plan" />
     <MESSAGE value="add task for incubator" />
     <MESSAGE value="done" />
-    <option name="LAST_COMMIT_MESSAGE" value="done" />
+    <MESSAGE value="done_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="done_3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
