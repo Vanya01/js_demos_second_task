@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0db04bde-2ebc-477e-88b6-a7d6b5e1108c" name="Default Changelist" comment="in progress">
+    <list default="true" id="0db04bde-2ebc-477e-88b6-a7d6b5e1108c" name="Default Changelist" comment="in progress_two">
+      <change afterPath="$PROJECT_DIR$/newWay/lesson2/task/Нова папка/my_code_class_3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/newWay/lesson2/task/Нова папка/My_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/newWay/lesson2/task/Нова папка/My_3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/newWay/lesson2/task/Нова папка/My_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/newWay/lesson2/task/Нова папка/My_4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newWay/lesson3/task/classwork.txt" beforeDir="false" afterPath="$PROJECT_DIR$/newWay/lesson3/task/classwork.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +97,9 @@
       <workItem from="1626368739436" duration="10038000" />
       <workItem from="1626430301410" duration="14713000" />
       <workItem from="1626460475520" duration="13781000" />
-      <workItem from="1626584095250" duration="6132000" />
+      <workItem from="1626584095250" duration="6143000" />
+      <workItem from="1626678739364" duration="1013000" />
+      <workItem from="1626683814907" duration="10765000" />
     </task>
     <task id="LOCAL-00001" summary="async tasks">
       <created>1614808180001</created>
@@ -202,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626447389677</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="in progress_two">
+      <created>1626591164313</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1626591164313</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,7 +242,8 @@
     <MESSAGE value="done" />
     <MESSAGE value="done_3" />
     <MESSAGE value="in progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="in progress" />
+    <MESSAGE value="in progress_two" />
+    <option name="LAST_COMMIT_MESSAGE" value="in progress_two" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
