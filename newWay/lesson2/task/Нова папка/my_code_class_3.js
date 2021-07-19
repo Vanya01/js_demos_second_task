@@ -1,42 +1,42 @@
 // - створити функцію, яка генерує масив рандомних числових цілих значень в діапазоні від 0 до 100.
 
-// function generateRandom(random_zero) {
-// let numRand = Math.round(Math.random()*100)
-//     console.log(numRand)
-// }
-//
-// generateRandom()
+function generateRandom(random_zero) {
+let numRand = Math.round(Math.random()*100)
+    console.log(numRand)
+}
+
+generateRandom()
 
 // - Змінти попередню функцію, щоб діапазон можна було визначити через аргументи.
 
-// function generateRandom_one(random_one,random_two) {
-// return Math.round(Math.random()*(random_two-random_one)+random_one)
-// }
-// console.log(generateRandom_one(30, 50));
-//
+function generateRandom_one(random_one,random_two) {
+return Math.round(Math.random()*(random_two-random_one)+random_one)
+}
+console.log(generateRandom_one(30, 50));
+
 
 // - створити (або згенерувати, за допомоги попередньої функції) масив рандомних цілих числових значень. Відсортувати його за допомоги sort
-// let empty_one = [1,34,5344,221,234,421,24];
-//
-// empty_one.sort(function (a,b){
-//     return a-b;
-//     }
-// )
-// console.log(empty_one)
-//
+let empty_one = [1,34,5344,221,234,421,24];
+
+empty_one.sort(function (a,b){
+    return a-b;
+    }
+)
+console.log(empty_one)
+
 
 
 // - створити (або згенерувати, за допомоги попередньої функції) масив рандомних цілих числових значень. відфільтрувати  його за допомоги filter, за лишивши тільки парні числа
 
-// let empty_one =[1,34,5344,221,234,421,24];
-//
-// let wrap_empty = empty_one.filter(function (a,b){
-//     return a % 2===0 && b % 2===0;
-//     }
-//
-// )
-// console.log(wrap_empty)
-//
+let empty_one_ =[1,34,5344,221,234,421,24];
+
+let wrap_empty = empty_one_.filter(function (a,b){
+    return a % 2===0 && b % 2===0;
+    }
+
+)
+console.log(wrap_empty)
+
 
 
 // - створити масив рандомних цілих числових значень (або згенерувати, за допомоги попередньої функції) . за допомоги map та колбеку перетворити всі об'єкти в масиві на срінгові.
